@@ -1,11 +1,9 @@
 [build]
   publish = "."
+  command = ""
 
 # ---------------------------------------------------------------------------
 # HTTPS enforcement
-# Force HTTPS must also be toggled ON in: Netlify Dashboard →
-# Site configuration → Domain management → HTTPS → Force HTTPS.
-# The HSTS header below reinforces it at the browser level once visited.
 # ---------------------------------------------------------------------------
 
 [[redirects]]
@@ -13,11 +11,6 @@
   to   = "https://:splat"
   status = 301
   force  = true
-
-# Edge function handles security monitoring on every request
-[[edge_functions]]
-  function = "security-monitor"
-  path     = "/*"
 
 # ---------------------------------------------------------------------------
 # Security headers — applied to every response
