@@ -65,4 +65,4 @@ Disallow: /data/
 Disallow: /netlify/
 Disallow: /.netlify/
 
-Sitemap: https://rumahsinggahtegarsewan.id/sitemap.xml
+Sitemap: https://rumahsinggahtegarsewan.netlify.app/sitemap.xml
