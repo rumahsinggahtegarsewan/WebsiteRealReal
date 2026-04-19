@@ -6,57 +6,67 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rumahsinggahtegarsewan.netlify.app/tentang-kami.html</loc>
+    <loc>https://rumahsinggahtegarsewan.netlify.app/tentang-kami</loc>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rumahsinggahtegarsewan.netlify.app/program-kami.html</loc>
+    <loc>https://rumahsinggahtegarsewan.netlify.app/program-kami</loc>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rumahsinggahtegarsewan.netlify.app/galeri-cita-cita.html</loc>
+    <loc>https://rumahsinggahtegarsewan.netlify.app/galeri-cita-cita</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://rumahsinggahtegarsewan.netlify.app/transparansi-dana.html</loc>
+    <loc>https://rumahsinggahtegarsewan.netlify.app/transparansi-dana</loc>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rumahsinggahtegarsewan.netlify.app/jadi-relawan.html</loc>
+    <loc>https://rumahsinggahtegarsewan.netlify.app/jadi-relawan</loc>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rumahsinggahtegarsewan.netlify.app/kontak.html</loc>
+    <loc>https://rumahsinggahtegarsewan.netlify.app/kontak</loc>
     <changefreq>yearly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://rumahsinggahtegarsewan.netlify.app/blog.html</loc>
+    <loc>https://rumahsinggahtegarsewan.netlify.app/blog</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://rumahsinggahtegarsewan.netlify.app/artikel-prasmul-1.html</loc>
+    <loc>https://rumahsinggahtegarsewan.netlify.app/apa-itu-rumah-singgah</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rumahsinggahtegarsewan.netlify.app/bagaimana-donasi-kamu-digunakan</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rumahsinggahtegarsewan.netlify.app/artikel-prasmul-1</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rumahsinggahtegarsewan.netlify.app/artikel-prasmul-2.html</loc>
+    <loc>https://rumahsinggahtegarsewan.netlify.app/artikel-prasmul-2</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rumahsinggahtegarsewan.netlify.app/artikel-prasmul-3.html</loc>
+    <loc>https://rumahsinggahtegarsewan.netlify.app/artikel-prasmul-3</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rumahsinggahtegarsewan.netlify.app/artikel-prasmul-4.html</loc>
+    <loc>https://rumahsinggahtegarsewan.netlify.app/artikel-prasmul-4</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
